@@ -11,6 +11,7 @@
 
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
@@ -18,7 +19,7 @@
   --hover-color: #496B91;
   --success-color: #40AF7D;
   --danger-color: #962828;
-  --url-color: #568C3F;
+  --url-color: #900000;
   --background-image: url('https://moewalls.com/wp-content/uploads/2023/02/hitagi-senjougahara-in-snow-monogatari-series-thumb.jpg');
   --background-shading: 100%;
   --background-position: center;
